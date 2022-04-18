@@ -3,4 +3,4 @@
 # Odin Recipes.
 
 ## Description
-A simple landing page created from a design that primarily demonstrates css and flexbox.
+A simple landing page created for The Odin Project. The landing page demonstrates the use of css and flexbox to display various elements on the page
